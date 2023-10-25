@@ -16,7 +16,7 @@ HoverQR Pal 的主要用途是在你浏览网页时，当你的鼠标悬停在�
 
     | jsDelivr 源 | GitHub 源                                                                       |
     | ---------- | ------------------------------------------------------------------------------ |
-    | [安装]()     | [安装](https://raw.githubusercontent.com/aoguai/HoverQR_Pal/main/dict/HoverQR_Pal.user.js) |
+    | [安装](https://cdn.jsdelivr.net/gh/aoguai/HoverQR_Pal@master-cdn/dict/HoverQR_Pal.user.js)     | [安装](https://raw.githubusercontent.com/aoguai/HoverQR_Pal/main/dict/HoverQR_Pal.user.js) |
 
 3. 浏览网页过程中，当鼠标悬停在图片上，HoverQR Pal 将在图片右下角显示一个识别标志。
 
@@ -32,7 +32,9 @@ HoverQR Pal 的主要用途是在你浏览网页时，当你的鼠标悬停在�
 
 ### 更新日志
 
-- **2023/10/24 HoverQR PalV0.1.0 版本更新**
+- **2023/10/25 HoverQR PalV0.2.0 版本更新**
+  - 修复 已知BUG
+  - 优化 页面图像标签识别
 
 ## 鸣谢
 

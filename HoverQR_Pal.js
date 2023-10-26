@@ -8,11 +8,12 @@
 // @description  HoverQR Pal 将在你的鼠标在页面的图片上悬停时，帮助你识别二维码。
 // @author       aoguai
 // @copyright    2023, aoguai (https://github.com/aoguai)
+// @license Apache License 2.0
 // @match        *://*/*
 // @grant        GM_xmlhttpRequest
 // @grant        GM_addStyle
 // @grant        GM_setClipboard
-// @require      https://cdn.jsdelivr.net/npm/jsqr/dist/jsQR.js
+// @require      https://cdn.jsdelivr.net/npm/jsqr@1.4.0/dist/jsQR.min.js
 // ==/UserScript==
 
 (function() {
